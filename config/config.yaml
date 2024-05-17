@@ -2,6 +2,6 @@
 
 glm:
   # input your api_key here
-  api_key: xxxxxxxxxxxxxxxxx
+  api_key: xxxxx
   # select model used
   model: glm-4
