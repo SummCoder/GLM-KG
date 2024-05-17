@@ -1,7 +1,0 @@
-# glm-model configuration
-
-glm:
-  # input your api_key here
-  api_key: xxxxxxxxxxxxx
-  # select model used
-  model: glm-4
